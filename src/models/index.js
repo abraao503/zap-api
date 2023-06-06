@@ -1,0 +1,10 @@
+module.exports.Token = require('./token.model');
+module.exports.User = require('./user.model');
+module.exports.Instance = require('./instance.model');
+module.exports.Contact = require('./contact.model');
+module.exports.Campaign = require('./campaign.model');
+module.exports.Message = require('./message.model');
+module.exports.CampaignContact = require('./campaign.contact.model');
+module.exports.Tag = require('./tag.model');
+module.exports.File = require('./file.model');
+module.exports.FlowData = require('./flow.data.model');

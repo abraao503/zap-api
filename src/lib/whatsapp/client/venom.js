@@ -57,7 +57,6 @@ class Whatsapp {
       },
       {
         multidevice: true,
-        headless: true,
       }
     );
 

@@ -58,6 +58,7 @@ class Whatsapp {
       {
         multidevice: true,
         headless: 'new',
+        disableWelcome: true,
       }
     );
 

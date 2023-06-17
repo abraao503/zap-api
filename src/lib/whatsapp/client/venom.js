@@ -59,6 +59,7 @@ class Whatsapp {
         multidevice: true,
         headless: 'new',
         disableWelcome: true,
+        browserArgs: ['--no-sandbox', '--disable-setuid-sandbox'],
       }
     );
 

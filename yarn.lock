@@ -1967,9 +1967,9 @@
     eslint-visitor-keys "^3.3.0"
 
 "@wppconnect/wa-js@^2.19.1":
-  version "2.24.2"
-  resolved "https://registry.yarnpkg.com/@wppconnect/wa-js/-/wa-js-2.24.2.tgz#2dbc5d9f336af765ae06e18ef806901c9d0459bc"
-  integrity sha512-dlnaNq6VRNSwg90ww0+0QRovQR9NsGCcMyhkfX2iCxH1BPZSsVCmnNTMBsI5y108mXW2iCjCEKU5O475aP5Vdw==
+  version "2.24.3"
+  resolved "https://registry.yarnpkg.com/@wppconnect/wa-js/-/wa-js-2.24.3.tgz#bbd3f09e2e41e2bbbdcdc40cdd128b12cbdd2595"
+  integrity sha512-x4KO/morEmPQS1ljGWdOh/SG8jWxhfnZW1o5IxAcKBf0NMG4ulL3hKZQ73a08wByPn+2k3ESoFf9HYZLTRaZJA==
 
 abab@^2.0.3, abab@^2.0.5:
   version "2.0.6"

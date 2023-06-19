@@ -13,6 +13,7 @@ server.listen(3334);
 
 const io = socketIo(server, {
   transports: ['websocket', 'polling'],
+  allowEIO3: true,
 });
 
 io.on('connection', (socket) => {

@@ -12,6 +12,7 @@ const server = http.createServer(app);
 server.listen(3334);
 
 const io = socketIo(server, {
+  path: '/',
   transports: ['websocket', 'polling'],
   allowEIO3: true,
 });

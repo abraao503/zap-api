@@ -11,7 +11,9 @@ const app = require('../../../app');
 const server = http.createServer(app);
 server.listen(3334);
 
-const io = socketIo(server);
+const io = socketIo(server, {
+  transports: ['websocket', 'polling'],
+});
 
 io.on('connection', (socket) => {
   console.log('a user connected', socket.id);

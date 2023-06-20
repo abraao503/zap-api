@@ -25,7 +25,7 @@ RUN npm install
 COPY . /usr/src/app
 
 # Expose app
-EXPOSE 3333
+EXPOSE 3333 3334
 
 # Run app
 CMD ["node", "src/index.js"]

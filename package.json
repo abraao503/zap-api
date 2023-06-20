@@ -75,7 +75,7 @@
     "swagger-jsdoc": "^6.0.8",
     "swagger-ui-express": "^4.1.6",
     "validator": "^13.0.0",
-    "venom-bot": "5.0.6",
+    "venom-bot": "5.0.1",
     "whatsapp-web.js": "github:BielPlugner/whatszap-web.js-Fix_Button_list_SendImage",
     "winston": "^3.2.1",
     "xss-clean": "^0.1.1"
